@@ -1,0 +1,28 @@
+* {
+    max-height: max-content;
+    text-align: center;
+    font-family: proxima-nova;
+    background-color: #fff;
+    -webkit-text-fill-color: #dc3545;
+    font-weight: 700;
+    letter-spacing: .025rem;
+}
+
+div1 {
+    font-size: xx-large;
+    text-shadow: black;
+
+}
+
+div2 {
+    padding-bottom: 0%;
+    font-size: larger;
+    
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+  border-color: black;
+  max-width: 75%;
+}
